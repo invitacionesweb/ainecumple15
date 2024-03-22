@@ -430,7 +430,7 @@ header {
     .galeria {
         width: 100%;
         display: grid;
-        grid-template-columns:1fr 1fr;
+        grid-template-columns:1fr;
     }
     .galeria .f3, .f4, .f2 {
         display: none;
